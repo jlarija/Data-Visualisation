@@ -49,5 +49,5 @@ def get_graph(entered_year):
     return fig1
 
 if __name__ == '__main__':
-    #app.run_server(port=8002, host='127.0.0.1', debug=True)
+    app.run_server(port=8002, host='127.0.0.1', debug=True)
 
